@@ -3,8 +3,8 @@ import React from 'react'
 function Footer() {
     return (
         <div className="flex flex-col lg:flex-row border m-10 justify-around items-center gap-6 md:gap-0 p-4">
-            <div className="text-sm text-center md:text-left">
-                <p>Bose Bluetooth Wireless Headphones</p>
+            <div className=" text-center md:text-left">
+                <p className="text-2xl">Bose Bluetooth Wireless Headphones</p>
                 <p className="text-gray-400">
                     Crisp powerful sound from the best sounding wireless headphone in its class
                 </p>
